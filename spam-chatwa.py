@@ -29,7 +29,7 @@ mengetik("\033[33;1m║  \033[36;1m [•] Instagram : azsa_.24                  
 mengetik("\033[33;1m╚════════════════════════════════════════════════╝")
 print ("")
 mengetik("\033[36;1m╔═══════════════════════════╗")
-mengetik("\033[36;1m║\033[33;1m GUNAKAN DENGAB BJIAK NGAB\033[36;1m ║")
+mengetik("\033[36;1m║\033[33;1m GUNAKAN DENGAN BJIAK NGAB\033[36;1m ║")
 mengetik("\033[36;1m╚═══════════════════════════╝")
 sleep(1)
 print ("")
